@@ -56,6 +56,8 @@ const { t } = useI18n()
     </div>
     <Button />
     <Card />
+    <Alert />
+    <Form />
   </div>
 </template>
 

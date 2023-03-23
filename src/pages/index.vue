@@ -58,6 +58,7 @@ const { t } = useI18n()
     <Card />
     <Alert />
     <Form />
+    <Dropdown />
   </div>
 </template>
 
